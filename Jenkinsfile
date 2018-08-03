@@ -1,7 +1,7 @@
 pipeline {
   agent any
      
-    stage('Test') {
+    stage('Prueba') {
       steps {
          sh 'npm ./Test/test.js'
       }
