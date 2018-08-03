@@ -3,7 +3,7 @@ pipeline {
      
     stage('Test') {
       steps {
-         sh 'npm Test/test.js'
+         sh 'npm ./Test/test.js'
       }
     }      
   }     
