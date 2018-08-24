@@ -2,7 +2,7 @@
 
 ssh gelixfarcia@35.231.94.223 <<EOF
  cd /home/sistemasooliva/moview
- sudo git pull
- pm2 restart all
+ sudo git pull all
+ npm restart all
  exit
 EOF
