@@ -6,7 +6,5 @@ app.get('/', function(req, res) {
 });
 
 //un comentario
-//otro comentario
-//este es otro cambio
 
 app.listen(4000);
