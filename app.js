@@ -6,16 +6,6 @@ app.get('/', function(req, res) {
 });
 
 //un comentario
-//comentario 2
-//comentario 3
-//comentario 4
-//comentario 5
-//comentario 6
-//comentario 7
-//comentario 8
-//comentario 9
-//comentario 10
-//comentario 11
 
 //este es otro cambio
 
